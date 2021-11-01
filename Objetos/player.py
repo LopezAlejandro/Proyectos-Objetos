@@ -30,13 +30,13 @@ class Sorcerer(Player):
 class Knight(Player):
 
     vocation = "Knigth"
-    spell = "exordi"
+    spell = "Exordi"
     movement_speed = 80
 
 class Paladin(Player):
 
     vocation = "Paladin"
-    spell = "spider"
+    spell = "Spiderman"
     movement_speed = 50
 
 class Druid(Player):
