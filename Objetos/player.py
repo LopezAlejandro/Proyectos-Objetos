@@ -42,5 +42,5 @@ class Paladin(Player):
 class Druid(Player):
 
     vocation = "Druid"
-    spell = "Tree"
+    spell = "Super Tree"
     movement_speed = 20
